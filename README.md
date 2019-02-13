@@ -1,6 +1,8 @@
 # openbox
 #i3 like config 
 taken from http://web.archive.org/web/20141016104356/http://dotfiles.org/~urukrama/rc.xml_07-2008
+ 
+ 
  win = w
  shift =s
  alt= m
@@ -8,12 +10,11 @@ taken from http://web.archive.org/web/20141016104356/http://dotfiles.org/~urukra
  
  
 win+enter = st terminal 
-
-win+d = rofi - show  combi 
+win+d = rofi - show  combi
 
 XF86AudioRaiseVolume/XF86AudioLowerVolume = pulseaudio
-
 XF86MonBrightnessUp/XF86MonBrightnessDown  =xbacklight 
+
 
 
 win+m = pavucontrol
